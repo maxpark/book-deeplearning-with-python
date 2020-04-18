@@ -1,5 +1,4 @@
-# book-deeplearning-with-python
-파이썬으로 배우는 딥러닝 교과서
+# 파이썬으로 배우는 딥러닝 교과서
 
 목차
 CHAPTER 0 개발 환경 준비
