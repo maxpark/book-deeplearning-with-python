@@ -63,7 +63,7 @@
 종합 문제
 ```
 
-### CH-7 NumPy
+### [CH-7 NumPy](./files/ch7.ipynb)
 ```shell
 7.1 NumPy 개요
 7.2 NumPy 1차원 배열
