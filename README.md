@@ -72,7 +72,7 @@
 종합 문제
 ```
 
-### CH-8 Pandas 기초
+### [CH-8 Pandas 기초](./files/ch8.ipynb)
 ```shell
 8.1 Pandas 개요
 8.2 Series
