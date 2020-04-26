@@ -80,7 +80,7 @@
 연습 문제
 ```
 
-### CH-9 Pandas 응용
+### [CH-9 Pandas 응용](./files/ch9_pandas_application.ipynb)
 ```shell
 9.1 DataFrame 연결과 결합의 개요
 9.2 DataFrame 연결
