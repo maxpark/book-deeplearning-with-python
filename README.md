@@ -90,7 +90,7 @@
 종합 문제
 ```
 
-### CH-10 데이터 시각화
+### [CH-10 데이터 시각화](.files/ch10_DataVisualization.ipynb)
 ```shell
 10.1 다양한 그래프
 10.2 난수 생성
