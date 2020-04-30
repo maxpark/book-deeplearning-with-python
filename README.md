@@ -99,7 +99,7 @@
 연습 문제
 ```
 
-### CH-11 matplotlib 사용하기
+### [CH-11 matplotlib 사용하기](./files/ch11_matplotlib.ipynb)
 ```shell
 11.1 한 종류의 데이터 시각화하기
 11.2 여러 데이터 시각화하기(1)
