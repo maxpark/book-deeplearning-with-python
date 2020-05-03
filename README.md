@@ -128,7 +128,7 @@
 연습 문제
 ```
 
-### CH-14 DataFrame을 이용한 데이터 클렌징
+### [CH-14 DataFrame을 이용한 데이터 클렌징](./files/ch14_DataFrame.ipynb)
 ```shell
 14.1 CSV
 14.2 DataFrame 복습
