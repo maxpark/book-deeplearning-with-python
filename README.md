@@ -137,7 +137,7 @@
 연습 문제
 ```
 
-### CH-15 OpenCV 이용 및 이미지 데이터 전처리
+### [CH-15 OpenCV 이용 및 이미지 데이터 전처리](./files/ch15_OpenCV.ipynb)
 ```shell
 15.1 이미지 데이터 기초
 15.2 OpenCV 기초
