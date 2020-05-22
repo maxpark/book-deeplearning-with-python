@@ -172,14 +172,14 @@
 종합 문제
 ```
 
-### CH-19 딥러닝 구현
+### [CH-19 딥러닝 구현](./files/ch19_DeepLearning.ipynb)
 ```shell
 19.1 딥러닝 개요
 19.2 필기체 숫자의 분류
 연습 문제
 ```
 
-### CH-20 딥러닝 튜닝
+### [CH-20 딥러닝 튜닝](./files/ch20_DeepLearning_tuning.ipynb)
 ```shell
 20.1 하이퍼파라미터
 20.2 네트워크 구조
