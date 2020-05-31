@@ -193,7 +193,7 @@
 연습 문제
 ```
 
-### CH-21 CNN을 이용한 이미지 인식 기초
+### [CH-21 CNN을 이용한 이미지 인식 기초](./files/ch21_CNN_ImageRecognition.ipynb)
 ```shell
 21.1 딥러닝 이미지 인식
 21.2 CNN
