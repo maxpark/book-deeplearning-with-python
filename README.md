@@ -201,7 +201,7 @@
 연습 문제
 ```
 
-### CH-22 CNN을 이용한 이미지 인식 응용
+### [CH-22 CNN을 이용한 이미지 인식 응용](./files/ch22_CNN_ImageRecognition2.ipynb)
 ```shell
 22.1 데이터 부풀리기
 22.2 정규화
